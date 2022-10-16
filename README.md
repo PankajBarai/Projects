@@ -30,7 +30,7 @@ Uncover the factors that lead to employee attrition and explore the reasons as t
 ****Libraries used :****  
 Pandas,Numpy,Matplotlib,Seaborn,Plotly,Sidetable,Pandas_Profiling,LabelEncoder, StandardScaler
 train_test_split , GridSearchCV.    
-****ML Algorithm :**** LogisticRegression,SVC,KNeighborsClassifier,GaussianNB,DecisionTreeClassifier,RandomForestClassifier.  
+****ML Algorithm used :**** LogisticRegression, SVC, KNeighborsClassifier, GaussianNB, DecisionTreeClassifier, RandomForestClassifier.  
 ****Deployed :**** Streamlit.
 
 ****Language**** : Python.  
