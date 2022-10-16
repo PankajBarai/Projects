@@ -19,6 +19,20 @@ It contains information about the NetFlix movies and TV shows.It includes the in
 We will analyze this dataset and draw some conclusions.
 
 ****Libraries used:**** Pandas, Numpy , Matplotlib, Seaborn , Ploty, Wordcloud....  
-****Language**** : Python  
-****Environment**** : Google Colab [Click to Open](https://github.com/PankajBarai/Projects/tree/main/EDA%20On%20Netflix%20%26%20TV%20shows)
+****Language**** : Python.    
+****Environment**** : Google Colab [Click to Open](https://github.com/PankajBarai/Projects/tree/main/EDA%20On%20Netflix%20%26%20TV%20shows).  
+   
+  
+**2)  Predict Employee Attrition using Classification Algorithms.**  
+**Problem Statement :**  
+Uncover the factors that lead to employee attrition and explore the reasons as to why people are leaving the organization and predict whether an employee will leave the organization or not by creating a Web App using Streamlit that takes inputs from user's online.  
+
+****Libraries used :****  
+Pandas,Numpy,Matplotlib,Seaborn,Plotly,Sidetable,Pandas_Profiling,LabelEncoder, StandardScaler
+train_test_split , GridSearchCV.    
+****ML Algorithm :**** LogisticRegression,SVC,KNeighborsClassifier,GaussianNB,DecisionTreeClassifier,RandomForestClassifier.  
+****Deployed :**** Streamlit.
+
+****Language**** : Python.  
+****Environment**** : Google Colab [Click to Open](https://github.com/PankajBarai/Projects/tree/main/Predict%20Employee%20Attrition%20using%20Classification%20Algorithms).  
    
