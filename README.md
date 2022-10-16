@@ -15,7 +15,7 @@ It is an approach to data analysis, that uses these techniques:
 
 
 Dataset is available on Kaggle [link](https://www.kaggle.com/shivamb/netflix-shows).  
-It contains information about the NetFlix movies and TV shows.It includes the information about type of the movie,title	of the movie, director name,	cast,	country,	date_added,	release_year,rating of the movie, duration,	listed_in and descriptionthe.  
+It contains information about the NetFlix movies and TV shows.It includes the information about type of the movie,title	of the movie, director name,	cast,	country,date_added,	release_year,rating of the movie, duration,	listed_in and descriptionthe.  
 We will analyze this dataset and draw some conclusions.
 
 ****Libraries used:**** Pandas, Numpy , Matplotlib, Seaborn , Ploty, Wordcloud....  
