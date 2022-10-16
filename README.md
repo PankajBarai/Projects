@@ -26,6 +26,7 @@ We will analyze this dataset and draw some conclusions.
 **2)  Predict Employee Attrition using Classification Algorithms.**  
 **Problem Statement :**  
 Uncover the factors that lead to employee attrition and explore the reasons as to why people are leaving the organization and predict whether an employee will leave the organization or not by creating a Web App using Streamlit that takes inputs from user's online.  
+****Dataset**** [link](https://www.dropbox.com/s/d18ektpwkx91khj/employee_data.csv).  
 
 ****Libraries used :****  
 Pandas,Numpy,Matplotlib,Seaborn,Plotly,Sidetable,Pandas_Profiling,LabelEncoder, StandardScaler
@@ -35,4 +36,5 @@ train_test_split , GridSearchCV.
 
 ****Language**** : Python.  
 ****Environment**** : Google Colab [Click to Open](https://github.com/PankajBarai/Projects/tree/main/Predict%20Employee%20Attrition%20using%20Classification%20Algorithms).  
+
    
