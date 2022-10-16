@@ -1,5 +1,5 @@
 # **Welcome to My Project....**
-**1)  Exploratory_Data_Analysis_on_Netflix_Movies_and_TV_Shows.**
+## **1)  Exploratory_Data_Analysis_on_Netflix_Movies_and_TV_Shows.**
 
 ****Exploratory Data Analysis?****  
 Exploratory data analysis (EDA for short) is what data analysts do with large sets of data, looking for patterns and summarizing the dataset’s main characteristics beyond what they learn from modeling and hypothesis testing.  
@@ -23,18 +23,35 @@ We will analyze this dataset and draw some conclusions.
 ****Environment**** : Google Colab [Click to Open](https://github.com/PankajBarai/Projects/tree/main/EDA%20On%20Netflix%20%26%20TV%20shows).  
    
   
-**2)  Predict Employee Attrition using Classification Algorithms.**  
+## **2)  Predict Employee Attrition using Classification Algorithms.**  
 **Problem Statement :**  
 Uncover the factors that lead to employee attrition and explore the reasons as to why people are leaving the organization and predict whether an employee will leave the organization or not by creating a Web App using Streamlit that takes inputs from user's online.  
 ****Dataset**** [link](https://www.dropbox.com/s/d18ektpwkx91khj/employee_data.csv).  
 
 ****Libraries used :****  
 Pandas,Numpy,Matplotlib,Seaborn,Plotly,Sidetable,Pandas_Profiling,LabelEncoder, StandardScaler
-train_test_split , GridSearchCV.    
+train_test_split , GridSearchCV,pycaret.    
 ****ML Algorithm used :**** LogisticRegression, SVC, KNeighborsClassifier, GaussianNB, DecisionTreeClassifier, RandomForestClassifier.  
 ****Deployed :**** Streamlit.
 
 ****Language**** : Python.  
 ****Environment**** : Google Colab [Click to Open](https://github.com/PankajBarai/Projects/tree/main/Predict%20Employee%20Attrition%20using%20Classification%20Algorithms).  
+
+## **3)  Unsupervised Learning (Customer Market Segmentation).**  
+**Problem Statement:**  
+You have been hired as a Data Scientist and have to perform Customer Market Segementation which will help the bank's marketing team to launch a targetted marketing ad campaign that is tailored to a specific group of customers.  
+In simple words, the bank wants to divide their customers into atleast different groups for the ad-campaign to be successful.  
+This process is called **Market Segmentation** and it is crucial for maximizing marketing campaign conversion rate.  
+****Aim:****  
+you have to build a clustering model to divide customer's into  distinctive groups.  
+****Dataset**** [link](https://www.dropbox.com/s/6v54wro81mlyp4x/marketing_data.csv).  
+
+
+****Libraries used:****  
+Pandas,Numpy,Matplotlib,Seaborn,Plotly,Sidetable,Pandas_Profiling,pycaret
+
+****ML Algorithm used :**** AgglomerativeClustering,DBSCAN,PCA.  
+****Language**** : Python.    
+****Environment**** : Google Colab [Click to Open](https://github.com/PankajBarai/Projects/tree/main/Unsupervised%20Learning%20(Customer%20Market%20Segmentation)).  
 
    
