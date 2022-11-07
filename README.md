@@ -63,3 +63,12 @@ Data preprocessing, facial feature extraction, and facial emotion classification
 Pandas,Numpy,Matplotlib,Seaborn,Tensorflow,Keras,ImageDataGenerator.  
 ****Language**** : Python.    
 ****Environment**** : Google Colab [Click to Open](https://github.com/PankajBarai/Projects/tree/main/Facial%20Emotion%20Recognition%20using%20CNN)).  
+
+
+
+## **5)House Price Prediction with Linear Regression.**  
+
+****Libraries used:****  
+Pandas,Numpy,Matplotlib,Seaborn,Tensorflow,Keras,ImageDataGenerator.  
+****Language**** : Python.    
+****Environment**** : Google Colab [Click to Open](https://github.com/PankajBarai/Projects/tree/main/House%20Price%20Prediction%20with%20Linear%20Regression).  
