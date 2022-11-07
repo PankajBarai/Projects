@@ -54,4 +54,12 @@ Pandas,Numpy,Matplotlib,Seaborn,Plotly,Sidetable,Pandas_Profiling,pycaret
 ****Language**** : Python.    
 ****Environment**** : Google Colab [Click to Open](https://github.com/PankajBarai/Projects/tree/main/Unsupervised%20Learning%20(Customer%20Market%20Segmentation)).  
 
-   
+## **4) Facial Emotion Recognition using CNN.**   
+Facial expressions are one of the ways humans communicate. Deep learning approaches in human and computer interactions are used in artificial intelligence research as an effective system application process. The detection of emotions or facial expressions in psychology necessitates the examination and evaluation of decisions in anticipating a person's feelings or a group of people communicating. This study proposes the development of a system that can predict and recognize the classification of facial emotions using the Convolution Neural Network (CNN) algorithm and feature extraction. 
+
+Data preprocessing, facial feature extraction, and facial emotion classification are the three key steps in the notebook. Facial expressions were predicted with the accuracy of <span style="color:crimson;">62.66</span> percent with using the Convolutional Neural Network (CNN). This algorithm was evaluated on a publicly available dataset from the <span style="color:crimson;">FER2013</span> database, which has 35887 48x48 grayscale face images each representing one of the emotions.
+
+****Libraries used:****  
+Pandas,Numpy,Matplotlib,Seaborn,Tensorflow,Keras,ImageDataGenerator,
+****Language**** : Python.    
+****Environment**** : Google Colab [Click to Open](https://github.com/PankajBarai/Projects/tree/main/Facial%20Emotion%20Recognition%20using%20CNN)).  
