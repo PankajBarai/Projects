@@ -69,6 +69,6 @@ Pandas,Numpy,Matplotlib,Seaborn,Tensorflow,Keras,ImageDataGenerator.
 ## **5)House Price Prediction with Linear Regression.**  
 
 ****Libraries used:****  
-Pandas,Numpy,Matplotlib,Seaborn,Tensorflow,Keras,ImageDataGenerator.  
+Pandas,Numpy,Matplotlib,Seaborn,Linear Regression.  
 ****Language**** : Python.    
 ****Environment**** : Google Colab [Click to Open](https://github.com/PankajBarai/Projects/tree/main/House%20Price%20Prediction%20with%20Linear%20Regression).  
