@@ -60,6 +60,6 @@ Facial expressions are one of the ways humans communicate. Deep learning approac
 Data preprocessing, facial feature extraction, and facial emotion classification are the three key steps in the notebook. Facial expressions were predicted with the accuracy of <span style="color:crimson;">62.66</span> percent with using the Convolutional Neural Network (CNN). This algorithm was evaluated on a publicly available dataset from the <span style="color:crimson;">FER2013</span> database, which has 35887 48x48 grayscale face images each representing one of the emotions.
 
 ****Libraries used:****  
-Pandas,Numpy,Matplotlib,Seaborn,Tensorflow,Keras,ImageDataGenerator,
+Pandas,Numpy,Matplotlib,Seaborn,Tensorflow,Keras,ImageDataGenerator.  
 ****Language**** : Python.    
 ****Environment**** : Google Colab [Click to Open](https://github.com/PankajBarai/Projects/tree/main/Facial%20Emotion%20Recognition%20using%20CNN)).  
