@@ -55,5 +55,10 @@ Pandas,Numpy,Matplotlib,Seaborn, Pandas-profiling.
 ****Environment**** : Google Colab [Click to Open](https://github.com/PankajBarai/Projects/tree/main/cab_booking_system).  
 
 
+## **6)Rain in Australia.**  
 
-
+****Libraries used:****  
+Pandas,Numpy,Matplotlib,Seaborn, Pandas-profiling.  
+****ML Algorithm used :**** EDA, Simpleimputer, MinMaxScaler,Label Encoder, RandomForest,RandomSearch, Pickel  
+****Language**** : Python.    
+****Environment**** : Google Colab [Click to Open](https://github.com/PankajBarai/Projects/tree/main/Rain%20in%20Australia).  
