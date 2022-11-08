@@ -6,7 +6,7 @@ We will analyze this dataset and draw some conclusions.
 
 ****Libraries used:**** Pandas, Numpy , Matplotlib, Seaborn , Ploty, Wordcloud....  
 ****Language**** : Python.    
-****Environment**** : Google Colab [Click to Open](https://github.com/PankajBarai/Projects/tree/main/EDA%20On%20Netflix%20%26%20TV%20shows).  
+****Environment**** : Google Colab [link](https://github.com/PankajBarai/Projects/tree/main/EDA%20On%20Netflix%20%26%20TV%20shows).  
  
 ## **2)  Predict Employee Attrition using Classification Algorithms.**  
 
@@ -17,7 +17,7 @@ train_test_split , GridSearchCV,pycaret.
 ****ML Algorithm used :**** LogisticRegression, SVC, KNeighborsClassifier, GaussianNB, DecisionTreeClassifier, RandomForestClassifier.  
 ****Deployed :**** Streamlit.
 ****Language**** : Python.  
-****Environment**** : Google Colab [Click to Open](https://github.com/PankajBarai/Projects/tree/main/Predict%20Employee%20Attrition%20using%20Classification%20Algorithms).  
+****Environment**** : Google Colab [link](https://github.com/PankajBarai/Projects/tree/main/Predict%20Employee%20Attrition%20using%20Classification%20Algorithms).  
 
 ## **3)  Unsupervised Learning (Customer Market Segmentation).**  
 **Problem Statement:**  
@@ -29,14 +29,14 @@ you have to build a clustering model to divide customer's into  distinctive grou
 Pandas,Numpy,Matplotlib,Seaborn,Plotly,Sidetable,Pandas_Profiling,pycaret  
 ****ML Algorithm used :**** Clustering, DBSCAN, PCA.    
 ****Language**** : Python.    
-****Environment**** : Google Colab [Click to Open](https://github.com/PankajBarai/Projects/tree/main/Unsupervised%20Learning%20(Customer%20Market%20Segmentation).  
+****Environment**** : Google Colab [link](https://github.com/PankajBarai/Projects/tree/main/Unsupervised%20Learning%20(Customer%20Market%20Segmentation).  
 
 ## **4) Facial Emotion Recognition using CNN.**   
 
 ****Libraries used:****  
 Pandas,Numpy,Matplotlib,Seaborn,Tensorflow,Keras,ImageDataGenerator.  
 ****Language**** : Python.    
-****Environment**** : Google Colab [Click to Open](https://github.com/PankajBarai/Projects/tree/main/Facial%20Emotion%20Recognition%20using%20CNN).  
+****Environment**** : Google Colab [link](https://github.com/PankajBarai/Projects/tree/main/Facial%20Emotion%20Recognition%20using%20CNN).  
 
 ## **5)House Price Prediction with Linear Regression.**  
 
@@ -44,7 +44,7 @@ Pandas,Numpy,Matplotlib,Seaborn,Tensorflow,Keras,ImageDataGenerator.
 Pandas,Numpy,Matplotlib,Seaborn.  
 ****ML Algorithm used :**** Linear Regression.  
 ****Language**** : Python.    
-****Environment**** : Google Colab [Click to Open](https://github.com/PankajBarai/Projects/tree/main/House%20Price%20Prediction%20with%20Linear%20Regression).  
+****Environment**** : Google Colab [link](https://github.com/PankajBarai/Projects/tree/main/House%20Price%20Prediction%20with%20Linear%20Regression).  
 
 ## **6)Cab Booking System.**  
 
@@ -52,13 +52,13 @@ Pandas,Numpy,Matplotlib,Seaborn.
 Pandas,Numpy,Matplotlib,Seaborn, Pandas-profiling.  
 ****ML Algorithm used :**** LogisticRegression,RandomForestRegressor,KNeighborsRegressor,GridSearchCV.  
 ****Language**** : Python.    
-****Environment**** : Google Colab [Click to Open](https://github.com/PankajBarai/Projects/tree/main/cab_booking_system).  
+****Environment**** : Google Colab [link](https://github.com/PankajBarai/Projects/tree/main/cab_booking_system).  
 
 
 ## **6)Rain in Australia.**  
-
+Dataset is available on Kaggle  [link](https://kaggle.com/datasets)  
 ****Libraries used:****  
 Pandas,Numpy,Matplotlib,Seaborn, Pandas-profiling.  
 ****ML Algorithm used :**** EDA, Simpleimputer, MinMaxScaler,Label Encoder, RandomForest,RandomSearch, Pickel  
 ****Language**** : Python.    
-****Environment**** : Google Colab [Click to Open](https://github.com/PankajBarai/Projects/tree/main/Rain%20in%20Australia).  
+****Environment**** : Google Colab [link](https://github.com/PankajBarai/Projects/tree/main/Rain%20in%20Australia).  
